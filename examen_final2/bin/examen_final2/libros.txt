@@ -1,0 +1,6 @@
+La isla misteriosa,Jules Verne,9788497943885,Aventuras,12
+1984,George Orwell,9780451524935,Ciencia Ficción,16
+Orgullo y prejuicio,Jane Austen,9780141439518,Romántica,14
+Sapiens: De animales a dioses,Yuval Noah Harari,9788499926223,Historia,18
+El arte de amar,Erich Fromm,9789688530204,Arte,16
+La isla misteriosa,Jules Verne,9788497943785,Aventuras,12
